@@ -14,3 +14,5 @@ public class CmsAdminApplication {
         SpringApplication.run(CmsAdminApplication.class, args);
     }
 }
+
+//mysbc_ssh_project
