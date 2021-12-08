@@ -13,9 +13,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CmsAdminApplication {
     public static void main(String[] args) {
         SpringApplication.run(CmsAdminApplication.class, args);
+        System.out.println("test20211208");
     }
 }
 
 //mysbc_ssh_project
 //commit and push
 //commit to my repository
+//test
