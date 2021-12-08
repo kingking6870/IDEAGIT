@@ -14,6 +14,7 @@ public class CmsAdminApplication {
     public static void main(String[] args) {
         SpringApplication.run(CmsAdminApplication.class, args);
         System.out.println("test20211208");
+        System.out.println("test20211208");
     }
 }
 
