@@ -18,3 +18,4 @@ public class CmsAdminApplication {
 
 //mysbc_ssh_project
 //commit and push
+//commit to my repository
