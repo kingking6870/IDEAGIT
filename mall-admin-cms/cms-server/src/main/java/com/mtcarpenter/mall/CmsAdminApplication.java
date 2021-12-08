@@ -8,7 +8,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @github https://github.com/mtcarpenter/mall-cloud-alibaba
  * @desc 微信公众号：山间木匠
  */
-@SpringBootApplication
+@SpringBootApplication:
+
 public class CmsAdminApplication {
     public static void main(String[] args) {
         SpringApplication.run(CmsAdminApplication.class, args);
