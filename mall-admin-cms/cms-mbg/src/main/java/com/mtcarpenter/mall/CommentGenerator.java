@@ -20,7 +20,7 @@ public class CommentGenerator extends DefaultCommentGenerator {
     private static final String API_MODEL_PROPERTY_FULL_CLASS_NAME="io.swagger.annotations.ApiModelProperty";
 
     /**
-     * 设置用户配置的参数1
+     * 设置用户配置的参数11
      */
     @Override
     public void addConfigurationProperties(Properties properties) {
