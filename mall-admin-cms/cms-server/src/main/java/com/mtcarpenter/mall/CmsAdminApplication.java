@@ -15,6 +15,7 @@ public class CmsAdminApplication {
         SpringApplication.run(CmsAdminApplication.class, args);
         System.out.println("test20211208");
         System.out.println("test20211208");
+        System.out.println("test20211208");
     }
 }
 
@@ -23,3 +24,4 @@ public class CmsAdminApplication {
 //commit to my repository
 //test
 //123
+//
